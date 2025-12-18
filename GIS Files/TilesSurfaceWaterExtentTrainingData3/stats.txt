@@ -1,0 +1,8 @@
+images = 270 *7*256*256
+
+Class feature statistics:
+features = 1333
+features per image = [min = 1, mean = 4.94, max = 30]
+classes = 1
+cls name                                  cls value     images   features    min size   mean size    max size
+SurfaceWaterExtent                                1        270       1333        5.44   3014409.04   44640260.22

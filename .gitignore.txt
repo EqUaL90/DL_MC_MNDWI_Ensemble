@@ -1,0 +1,61 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.egg-info/
+*.log
+
+# Conda / virtual environments
+.env
+.venv
+env/
+venv/
+
+# ArcGIS Pro / ArcPy
+*.aprx
+*.gdb/
+*.sde
+arcgis_cache/
+.esri/
+
+# Deep learning models and weights
+*.dlpk
+*.pth
+*.pt
+*.onnx
+checkpoints/
+models/
+
+# Raster and GIS data
+*.tif
+*.tiff
+*.img
+*.bil
+*.hdr
+*.aux.xml
+*.ovr
+*.vrt
+
+# Vector GIS data
+*.shp
+*.shx
+*.dbf
+*.prj
+*.cpg
+*.gpkg
+*.geojson
+*.zip
+
+# Streamlit
+.streamlit/
+.streamlit/secrets.toml
+
+# Figures (keep if small, ignore large)
+Figs/*.tif
+Figs/*.png
+Figs/*.jpg
+
+# OS
+.DS_Store
+Thumbs.db
