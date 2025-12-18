@@ -17,11 +17,12 @@ This repository implements a probabilistic ensemble framework that integrates de
 - Run code accordingly with adequate input data 
 
 ## Repository Structure
+```text
 Scripts/
-├── *.py # Executable workflows
-├── requirements.txt # Preserved dependency list
-├── Figs/ # Figures for analysis and manuscript
-├── GIS Files/ # Raster and vector datasets
+├── *.py                  # Executable workflows
+├── requirements.txt      # Preserved dependency list
+├── Figs/                 # Figures for analysis and manuscript
+├── GIS Files/            # Raster and vector datasets
 
 ## Environment
 
