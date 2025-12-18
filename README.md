@@ -1,4 +1,4 @@
-# UResNetMNDWI_Ensemble_FloodMapping
+# DeepLearningMonteCarloSpectralIndices_Ensemble_FloodMapping
 
 Code repository for my manuscript submission titled:
 
