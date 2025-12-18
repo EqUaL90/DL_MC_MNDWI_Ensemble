@@ -10,7 +10,7 @@ Submitted to *ISPRS Journal of Photogrammetry and Remote Sensing*.
 
 Accurate surface water mapping in river–reservoir systems remains challenging due to mixed pixels, turbidity, cloud contamination, and variable water spectral behavior under rapidly varying inflows. Spectral index approaches often fail in transition zones due to manual thresholding problems, while deep learning models also struggle to generalize under dynamic hydrologic conditions.
 
-This repository implements a probabilistic ensemble framework that integrates deep learning segmentation with Monte Carlo–baed MNDWI pertubations to improve delineation under complex flow regimes. The framework was developed and tested over the Kainji Reservoir and flood events along the transboundary Niger River system.
+This repository implements a probabilistic ensemble framework that integrates deep learning segmentation with Monte Carlo–based MNDWI pertubations to improve delineation under complex flow regimes. The framework was developed and tested over the Kainji Reservoir and flood events along the transboundary Niger River system.
 
 ## Instruction
 
